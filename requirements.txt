@@ -1,0 +1,7 @@
+BeautifulSoup>=3.2.0
+nltk>=3.3
+jieba>=0.39
+requests>=2.12.4
+selenium>=3.11.0
+python-dateutil==2.7
+numpy>=1.14.2                 

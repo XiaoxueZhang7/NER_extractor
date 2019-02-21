@@ -1,0 +1,831 @@
+中文名@@n
+勒让德@@n
+艾伦图灵@@n
+Alexander Sasha Vezhnevets@@n
+吴恩达@@n
+安德雷·马尔可夫@@n
+阿尼什雅典@@n
+阿瑟·P·登普斯特@@n
+陈蓓@@n
+毛炳寰@@n
+布拉德利J.克莱门特@@n
+熊蔡明@@n
+卡米尔乔丹@@n
+卡尔·弗里德里希·高斯@@n
+查尔斯萨顿@@n
+翟成祥@@n
+林智仁@@n
+李锦辉@@n
+林钦佑@@n
+譚祟仁@@n
+李俊良@@n
+克劳德·香农@@n
+科琳娜·科特斯@@n
+达芙妮·科勒@@n
+戴维·科克斯@@n
+大卫银@@n
+迪米特里·伯特瑟卡斯@@n
+德约克·阿恩·克利弗特@@n
+俞栋@@n
+道格拉斯·布鲁斯·莱纳特@@n
+埃德蒙·H·德菲@@n
+埃德温·T·杰恩斯@@n
+艾曼纽·J·坎迪斯@@n
+李飞飞@@n
+菲利克斯亚历山大格尔斯@@n
+弗兰克·罗森布拉特@@n
+申富饶@@n
+韦福如@@n
+格曼兄弟@@n
+杰弗里·辛顿@@n
+乔治·B·丹茨格@@n
+乔治·卡里皮斯@@n
+杨广中@@n
+齐国君@@n
+哈密顿@@n
+李航@@n
+哈里·奈奎斯特@@n
+長谷川 修@@n
+黑斯廷斯@@n
+亨利·蓝道@@n
+赫伯特·西蒙@@n
+黄广斌@@n
+雨果·迪诺齐齐斯坦豪斯@@n
+伊恩·古德费洛@@n
+雅可比@@n
+戈万@@n
+邓嘉@@n
+裴健@@n
+孙剑@@n
+史建波@@n
+陶建华@@n
+韩家炜@@n
+约翰·麦卡锡@@n
+约翰·T·里德@@n
+约翰特西斯克里斯@@n
+冯·诺依曼@@n
+约瑟夫·魏泽鲍姆@@n
+王军@@n
+赵军@@n
+于尔根·施密德胡伯@@n
+何恺明@@n
+卡尔·库普夫米勒@@n
+皮尔森@@n
+基思·S·德克尔@@n
+凯文克劳斯顿@@n
+张磊@@n
+邓力@@n
+多里戈@@n
+马丁·埃斯特@@n
+马丁普特曼@@n
+马文·闵斯基@@n
+马修泽勒@@n
+梅特罗波利斯@@n
+李沐@@n
+尼克·詹宁斯@@n
+钱宁@@n
+帕斯卡尔·文森特@@n
+保罗·韦尔博斯@@n
+Paul Viola@@n
+彼得罗梭@@n
+皮埃尔·弗朗索瓦·韦吕勒@@n
+彼得阿贝尔@@n
+杨强@@n
+莱因哈德塞尔滕@@n
+理查德·贝尔曼@@n
+理查德·科夫@@n
+理查德S.萨顿@@n
+罗布弗格斯@@n
+费雪@@n
+Ronald Parr@@n
+蔡锡钧@@n
+颜水成@@n
+朱松纯@@n
+李子青@@n
+斯图尔特·J·拉塞尔@@n
+Thomas G. Dietterich@@n
+托马斯·W·马隆@@n
+陈天奇@@n
+刘铁岩@@n
+汤姆·M·米切尔@@n
+托马斯米科洛夫@@n
+维克托·R·雷瑟@@n
+W·布鲁斯·克罗夫特@@n
+李文捷@@n
+汤晓鸥@@n
+施行健@@n
+毛旭东@@n
+何旭铭@@n
+扬·勒丘恩@@n
+李嫣然@@n
+吴翼@@n
+杨益明@@n
+孙怡舟@@n
+约书亚·本吉奥@@n
+李宇佳@@n
+尤里·涅斯捷罗夫@@n
+周志华@@n
+王舟@@n
+易子立@@n
+英文名@@n
+Abdel-rahman Mohamed@@n
+Abraham de Moivre@@n
+Adrian Kaehler@@n
+Adrien-Marie Legendre@@n
+Aggelos K. Katsaggelos@@n
+Ahti Heinla@@n
+Alain Celisse@@n
+Alain Colmerauer@@n
+Alan Asbeck@@n
+Alan Bovik@@n
+Alan E. Gelfand@@n
+Alan Jerome Hoffman@@n
+Alan Turing@@n
+Albert Einstein@@n
+Alec Radford@@n
+Alex Attinger@@n
+Alex Graves@@n
+Alex Krizhevsky@@n
+Alexander Borgida@@n
+Alexander Reinefeld@@n
+Alexander Sasha Vezhnevets@@n
+Alexandru Niculescu-Mizil@@n
+Alexey Chervonenkis@@n
+Ali H. Sayed@@n
+Allan H. Murphy@@n
+Allan M. Collins@@n
+Allen Newell@@n
+Anders Krogh@@n
+Andreas Geiger@@n
+Andreas Stolcke@@n
+Andrei Nikolaevich Tikhonov@@n
+Andrew G. Barto@@n
+Andrew McCallum@@n
+Andrew Ng@@n
+Andrew Zisserman@@n
+Andrey Karpathy@@n
+Andrey Markov@@n
+Andrey Nikolaevich Kolmogorov@@n
+Andrey Nikolayevich Tikhonov@@n
+Anh Nguyen@@n
+Anil K. Jain@@n
+Anish Athalye@@n
+Anita Jones@@n
+Antoine Cully@@n
+Antonio Criminisi@@n
+Antonio Torralba@@n
+Arkadi Nemirovski@@n
+Arthur Hoerl@@n
+Arthur P. Dempster@@n
+ASHUTOSH SAXENA@@n
+Aske Plaat@@n
+Athul Paul Jacob@@n
+Austin Tate@@n
+Aviv Tamar@@n
+Avram Noam Chomsky@@n
+Badrul Sarwar@@n
+Balázs Kégl@@n
+Bart Selman@@n
+Bei Chen@@n
+Bekir KARLIK@@n
+Bela Bollobas@@n
+Ben Taskar@@n
+Benjamin Schrauwen@@n
+Bernhard Schölkopf@@n
+Bernt Schiele@@n
+Bing-Huan Mao@@n
+Bradley Efron@@n
+Bradley J. Clement@@n
+Bruce Buchanan@@n
+C. J. “Keith” van Rijsbergen@@n
+Caiming Xiong@@n
+Camille Jordan@@n
+Carl Edward Rasmussen@@n
+Carl Friedrich Gauss@@n
+Carl G.Looney@@n
+Carolina Cruz-Neira@@n
+Casper Kaae Sønderby@@n
+Cecilia R. Aragon@@n
+Charles Edward Spearman@@n
+Charles Francis Hockett@@n
+Charles Sutton@@n
+Charlie Geyer@@n
+Chee-Kheong Siew@@n
+ChengXiang ("Cheng") Zhai@@n
+Chihjen Lin@@n
+Chih-Jen Lin@@n
+Chi-Hyuck Jun@@n
+Chin-Hui LEE@@n
+Chin-Yew Lin@@n
+Chris Harris@@n
+Chris Volinsky@@n
+Chris Watkins@@n
+Christian Ledig@@n
+Christian P. Robert@@n
+Christian Szegedy@@n
+Christine Virginia Zavgren@@n
+Christopher Granger Atkeson@@n
+Christopher J.C. Burges@@n
+Christopher Manning@@n
+Christos H PAPADIMITRIOU@@n
+Chung-Jen Tan@@n
+Chun-Liang Li@@n
+Claude Lemaréchal@@n
+Claude Shannon@@n
+Constantin Zopounidis@@n
+Corinna Cortes@@n
+Craig A. Knoblock@@n
+Cynthia Breazeal@@n
+Cyril W. Cleverdon@@n
+D.W.F. van Krevelen@@n
+Dan Klein@@n
+Dan Pelleg@@n
+Dana H. Ballard@@n
+Dana S. Nau@@n
+Daniel D. Lee@@n
+Daniel Dominic Kaplan Sleator@@n
+Daniel E. Koditschek@@n
+Daniel L Rubinfeld@@n
+Daniel S. Weld@@n
+Daniela Rus@@n
+Daphne Koller@@n
+David A. Huffman@@n
+David Cox@@n
+David Donoho@@n
+David E. Rumelhart@@n
+David H. Wolpert@@n
+David Haussler@@n
+David Heckerman@@n
+David Hillman@@n
+David Hunter Hubel@@n
+David J. Kriegman@@n
+David K. Gifford@@n
+David Lowe@@n
+David Marr@@n
+David McAllester@@n
+David Rumelhart@@n
+David S. Johnson@@n
+David Silver@@n
+Dawn Song@@n
+Demis Hassabis@@n
+Derya Birant@@n
+Diederik P. Kingma@@n
+Diego Calvanese@@n
+Dieter Fox@@n
+Dimitri Bertsekas@@n
+Djork-Arné Clevert@@n
+Doina Precup@@n
+Donald Allan Darling@@n
+Donald Bruce Rubin@@n
+Donald E.Knuth@@n
+Donald Geman@@n
+Donald Olding Hebb@@n
+Dong Yu@@n
+Dorothy Denning@@n
+Doug Reynolds@@n
+Douglas Bruce Lenat@@n
+Drew Bagnell@@n
+Dumitru Erhan@@n
+Durk Kingma@@n
+Dzmitry Bahdanau@@n
+Earl D Sacerdoti@@n
+Edmund Beecher Wilson@@n
+Edmund Edward Fournier d'Albe@@n
+Edmund H. Durfee@@n
+Edsger W. Dijkstra@@n
+Edward Colin Cherry@@n
+Edward Feigenbaum@@n
+Edward H.Shortliffe@@n
+Edwin T. Jaynes@@n
+Egon Sharpe Pearson@@n
+Eli Zelkha@@n
+Elizabeth Loftus@@n
+Emil Leon Post@@n
+Emmanuel J. Candes@@n
+Erhard Schmidt (1876-1959)@@n
+Eugenio Beltrami(1835-1899)@@n
+Eui-Hong Han@@n
+F.L. Lewis@@n
+Fabrizio Sebastiani@@n
+Fausto Giunchiglia@@n
+Fei-Fei Li@@n
+Felix Alexander Gers@@n
+Feng-hsiung Hsu@@n
+Fernando Pereira@@n
+Florian Schroff@@n
+Foster Provost@@n
+Francis Galton@@n
+Frank Dellaert@@n
+Frank Harary@@n
+Frank Hutter@@n
+Frank Rosenblatt@@n
+Frederick Jelinek@@n
+Frederick Mosteller@@n
+Frigyes Riesz@@n
+Furao, S.@@n
+Furu Wei@@n
+Gail Carpenter@@n
+Galileo Galilei@@n
+Gary A. Churchill@@n
+Gary Bradski@@n
+Geman, S.; Geman, D.@@n
+Geoff McLachlan@@n
+Geoff Webb@@n
+Geoffrey E. Hinton@@n
+George B. Dantzig@@n
+George Boole@@n
+George Devol@@n
+George Karypis@@n
+Gerald Tesauro@@n
+Gerard Salton@@n
+Glenn W. Brier@@n
+Gordon F. Hughes@@n
+Gordon Wyeth@@n
+Grace Wahba@@n
+Graesser@@n
+Gregorio Ricci Curbastro@@n
+Gregory F. Cooper@@n
+Guang-Zhong Yang@@n
+Gunnar Fant@@n
+Guo-Jun Qi@@n
+H Sebastian Seung@@n
+Haesun Park@@n
+Haizhou Li@@n
+Hal Daumé III@@n
+Hamilton, W.R@@n
+Hang Li@@n
+Hans Peter Luhn@@n
+Hans-Peter Kriegel@@n
+HanWoo Park@@n
+Harald Haas@@n
+Harry Nyquist@@n
+Hasegawa, O.@@n
+Hassler Whitney@@n
+Hastings, WK@@n
+He Haibo@@n
+Heather Bortfeld@@n
+Hector Munoz-Avila@@n
+Henry Kautz@@n
+Henry Landau@@n
+Herbert A. Simon@@n
+Herbert Jaeger@@n
+Hermann Weyl (1885-1955)@@n
+Hiroshi Ishiguro@@n
+Holger Hoos@@n
+HongJiang Zhang@@n
+Huang Guangbin@@n
+Hugh Durrant-Whyte@@n
+Hugo Dyonizy Steinhaus@@n
+Hugo Larochelle@@n
+Hyung Jin Chang@@n
+Ian Goodfellow@@n
+Ian Hacking@@n
+Ian Watson@@n
+Ichiro Kato@@n
+Igor Kononenko@@n
+Ilya Sutskever@@n
+Irina Rish@@n
+Irwin King@@n
+Isidro F.Aguillo@@n
+J.-S. Roger Jang@@n
+Jacob Goldberger@@n
+Jacobi, C. G. J@@n
+Jacques Salomon Hadamard@@n
+Jae S. Lim@@n
+James Allen@@n
+James Bergstra@@n
+James C. Bezdek@@n
+James Hanley@@n
+James Hendler@@n
+James Joseph Sylvester (1814-1897)@@n
+James K. Baker@@n
+James Newton Morgan@@n
+Jan Peters@@n
+Janet Lynne Kolodner@@n
+Jason Calaiaro@@n
+Jason D. M. Rennie@@n
+Jason Yosinski@@n
+Jean Pouget-Abadie@@n
+Jean-Luc Gauvain@@n
+Jeff Clune@@n
+Jeff Dean@@n
+Jeff Wu@@n
+Jeffrey A. Bilmes@@n
+Jeffrey A. Fessler@@n
+Jeffrey Cohn@@n
+Jenifer C. Lai@@n
+Jerome H. Friedman@@n
+Jerry Brody@@n
+Jerzy Neyman@@n
+Jia Deng@@n
+Jian Pei@@n
+Jian Sun@@n
+Jianbo Shi@@n
+Jiang Wang@@n
+Jianhua Tao@@n
+Jian-Sheng Wang@@n
+Jiawei Han@@n
+Jimmy Lin@@n
+Joao Hespanha@@n
+Joel Benjamin@@n
+John A. Robinson@@n
+John C. Duchi@@n
+John Canny@@n
+John D. Lafferty@@n
+John Duchi@@n
+John Forbes Nash Jr.@@n
+John Henry Holland@@n
+John Hugh Andreae@@n
+John L. Horn@@n
+John Makhoul@@n
+John McCarthy@@n
+John R Anderson@@n
+John Riedl@@n
+John Ross Quinlan@@n
+John S. Breese@@n
+John Searle@@n
+John Tsitsiklis@@n
+John von Neumann@@n
+John W. Sammon@@n
+John Wright@@n
+Jon Bentley@@n
+Jon Kleinberg@@n
+Jon Shlen@@n
+Jörg Sander@@n
+Jorge Nocedal@@n
+Joseph Engelberger@@n
+Joseph Halpern@@n
+Joseph Konstan@@n
+Joseph P. Campbell@@n
+Joseph Weizenbaum@@n
+Joshua B. Tenenbaum@@n
+Joydeep Ghosh@@n
+Judea Pearl@@n
+Juergen Schmidhuber@@n
+Jun Wang@@n
+Jun Zhao@@n
+Jung-Min Park@@n
+Junichi Yamagishi@@n
+Jürgen Schmidhuber@@n
+Jussi Rintanen@@n
+Kagan Tumer@@n
+Kai Ming Ting@@n
+Kaiming He@@n
+Kalyan Veeramachaneni@@n
+Karen Simonyan@@n
+Karl Iagnemma@@n
+Karl Küpfmüller@@n
+Karl Moritz Hermann@@n
+Karl Pearson@@n
+Keiichi Tokuda@@n
+Keith Holyoak@@n
+Keith S. Decker@@n
+Ken Goldberg@@n
+Kenneth Church@@n
+Kent A. Spackman@@n
+Kent Beck@@n
+Kevin Ashton@@n
+Kevin Crowston@@n
+Khashayar Rohanimanesh@@n
+Kishor Trivedi@@n
+Kristen Grauman@@n
+Kristina Toutanova@@n
+Kuldip Paliwal@@n
+Kunihiko Fukushima@@n
+Kurt D. Bollacker@@n
+Kurt Konolige@@n
+Kyle Cranmer@@n
+Kyunghyun Cho,@@n
+Larry Page@@n
+Larry Roberts@@n
+Laszlo Lovasz@@n
+Laurent Younes@@n
+Lawrence Edward Page@@n
+Lawrence K. Saul@@n
+Lei Zhang@@n
+Leo Breiman@@n
+leon bottou@@n
+Leonard Esau Baum@@n
+Leonard Kaufman@@n
+Leonhard Euler@@n
+Leonid Levin@@n
+Leslie Gabriel Valiant@@n
+Lewis Mandell@@n
+Li Deng@@n
+Lior Rokach@@n
+Llew Mason@@n
+Loren Terveen@@n
+Lorien Pratt@@n
+Louis Victor Allis@@n
+Ludwig Wittgenstein@@n
+Luis Gravano@@n
+Lukáš Burget@@n
+M. E. J. Newman@@n
+Maja J Mataric@@n
+Majid Rabbani@@n
+Marcel Grossmann@@n
+Marco Baioletti@@n
+Marco Dorigo@@n
+Margaret Masterman@@n
+Mark W. Tilden@@n
+Mark Weiser@@n
+Martial Hebert@@n
+Martin Abadi@@n
+Martin Buehler@@n
+Martin Davis@@n
+Martin Ester@@n
+Martin Müller@@n
+Martin Puterman@@n
+Marvin Minsky@@n
+Mathieu Sinn@@n
+Matthew D. Zeiler@@n
+Maureen Caudill@@n
+Max Kanter@@n
+McFadden, Daniel@@n
+Mehdi Mirza@@n
+Mehran Sahami@@n
+Melvin Earl (Bill) Maron@@n
+Metropolis, Nicholas@@n
+Michael Collins@@n
+Michael Fielding Barnsley@@n
+Michael I. Jordan@@n
+Michael Jones@@n
+Michael L. Mavrovouniotls@@n
+Michael Mozer@@n
+Michael R. Lyu@@n
+Michael Rosenblum@@n
+Michael Saunders@@n
+Michael Steinbach@@n
+Michael Wooldridge@@n
+Michel Goemans@@n
+Mike Thelwall@@n
+Min Lin@@n
+Ming Yu Hsieh@@n
+Miomir Vukobratovic@@n
+Mohammed J. Zaki@@n
+Moises Goldszmids@@n
+Monty Newborn@@n
+Morgan Quigley@@n
+Mu Li@@n
+Mubarak Shah@@n
+Murray Campbell@@n
+Nahum Shimkin@@n
+Nal Kalchbrenner@@n
+Nan McKenzie Laird@@n
+Nancy Flournoy@@n
+Nando de Freitas@@n
+Nathan Intrator@@n
+Navdeep Jaitly@@n
+Neil Robertson@@n
+Nenad Mladenovic@@n
+Neri Merhav@@n
+Nicholas Carlini@@n
+Nicholas Pippenger@@n
+Nick C Ellis@@n
+Nick Jennings@@n
+Nicolas Minorsky@@n
+Nicolas Papernot@@n
+Nigel Shadbolt@@n
+Nikolai Smirnov@@n
+Nils J. Nilsson@@n
+Ning Qian@@n
+Nir Friedman@@n
+Noam Chomsky@@n
+Norbert Fuhr@@n
+Oren Etzioni@@n
+Oriol Vinyals@@n
+oussama Khatib@@n
+P. Erdős@@n
+Pablo A. Parrilo@@n
+Palmer Luckey@@n
+Paris Smaragdis@@n
+Pascal Vincent@@n
+Patrick Haffner@@n
+Patrick Kenny@@n
+Patrick Mair@@n
+Paul Dagum@@n
+Paul J. Werbos@@n
+Paul Seymour@@n
+Paul Smolensky@@n
+Paul Utgoff@@n
+Paul Viola@@n
+Paul Werbos@@n
+Pedro Garcia Lopez@@n
+Peter E. Hart@@n
+Peter F. Brown@@n
+Peter N. Belhumeur@@n
+Peter Norvig@@n
+Peter Rousseeuw@@n
+Peter Turney@@n
+Peter W. Jusczyk@@n
+Petr Hájek@@n
+Phil Wolfe@@n
+Philip Dawid@@n
+Philip E. Gill@@n
+Philip Loizou@@n
+Philip S. Yu@@n
+Philipp Koehn@@n
+Phillip Isola@@n
+Pierre François Verhulst@@n
+Pierre-Simon Laplace@@n
+Pieter Abbeel@@n
+Piotr Indyk@@n
+Qiang Yang@@n
+Qin-Yu Zhu@@n
+R. Darrell Bock@@n
+R. Fateman@@n
+R.C. Lacher@@n
+Raghu Krishnapuram@@n
+Raimund Seidel@@n
+Rajeev Motwani@@n
+Rakesh Agrawal@@n
+Ralph Grishman@@n
+Ramanathan V. Guha@@n
+Raphael A. Finkel@@n
+Raymond Bernard Cattell@@n
+Raymond J. Mooney@@n
+Raymond Pearl@@n
+Reinhard Selten@@n
+Rémi Bardenet@@n
+Reuven Y.Rubinstein@@n
+Rich Caruana@@n
+Richard A. Leibler@@n
+Richard E. Bellman@@n
+Richard E. Korf@@n
+Richard Fikes@@n
+Richard H. Granger, Jr.@@n
+Richard Hook Richens@@n
+Richard S. Sutton@@n
+Richard Zemel@@n
+Rob Fergus@@n
+Rob Tibshirani@@n
+Robert E. Tarjan@@n
+Robert F. Simmons@@n
+Robert H. Swendsen@@n
+Robert Schapire@@n
+Robert Susmaga@@n
+Robert W. Brodersen@@n
+Rodney Allen Brooks@@n
+Roger C. Schank@@n
+Rolf Sundberg@@n
+Roman Slowinski@@n
+Ron Brachman@@n
+Ron Kohavi@@n
+Ronald Aylmer Fisher@@n
+Ronald C. Arkin@@n
+Ronald J. Brachman@@n
+Ronald J. Williams@@n
+Ronald Parr@@n
+Ronald T. Azuma@@n
+Ronald.A.Howard@@n
+Ronan Collobert@@n
+Rosalind Wright Picard@@n
+Ross Girshick@@n
+Rudolf E Kalman@@n
+Rudolf Halin@@n
+Ruohan Wang@@n
+Ruslan L. Stratonovich@@n
+Ruslan Salakhutdinov@@n
+Ryan Prescott Adams@@n
+Sam Roweis@@n
+Samuel Stanley Wilks@@n
+Sartaj Sahni@@n
+Satoshi Nakamoto@@n
+Satoshi Sekine@@n
+Sean R. Eddy@@n
+Sebastian Riedel@@n
+Sebastian Thrun@@n
+Sepp Hochreiter@@n
+Sergey Ioffe@@n
+Sergey Levine@@n
+Shaoqing Ren@@n
+Sharon Goldwater@@n
+Sheldon Ross@@n
+Shi-Chun Tsai@@n
+Shlomo Zilberstein@@n
+Shuicheng Yan@@n
+Shumeet Baluja@@n
+Simon Haykin@@n
+Simon Osindero@@n
+Solomon Kullback@@n
+Song Han@@n
+Song-Chun Zhu@@n
+Sören Auer@@n
+Sreerama KV Murthy@@n
+Stan Franklin@@n
+Stan Matwin@@n
+Stan Z Li@@n
+Stanley F. Schmidt@@n
+Stefan Schaal@@n
+Steffen Rendle@@n
+Stephen A. Cook@@n
+Stephen E. Robertson@@n
+Stephen Grossberg@@n
+Stephen Wright@@n
+Steven Abney@@n
+Steven DeRose@@n
+Steven Pinker@@n
+Stuart Geman@@n
+Stuart Russell@@n
+Susan Dumais@@n
+Susan I. Hruska@@n
+Syed Ali Ahmed@@n
+Sylvain Arlot@@n
+T. Anthony Marsland@@n
+Taeksoo Kim@@n
+Tejas Kulkarni@@n
+Terrence Sejnowski@@n
+Terry Winograd@@n
+TEUVO KOHONEN@@n
+Theodore Wilbur Anderson@@n
+Theodosios Pavlidis@@n
+Thomas A. Louis@@n
+Thomas Bayes@@n
+Thomas G. Dietterich@@n
+Thomas Hofmann@@n
+Thomas M. Cover@@n
+Thomas W. Malone@@n
+Thorsten Joachims@@n
+Tianqi Chen@@n
+Tie-Yan Liu@@n
+Tijmen Tieleman@@n
+Timothy Dozat@@n
+Timothy John Berners-Lee@@n
+Tom Dean@@n
+Tom Fawcett@@n
+Tom M. Mitchell@@n
+Tomas Mikolov@@n
+ToMaso Poggio@@n
+Tommi S. Jaakkola@@n
+Tong Che@@n
+Torsten Nils Wiesel@@n
+Tullio Levi-Civita@@n
+Udny Yule@@n
+Ulf D. Schiller@@n
+Ulrich H. E. Hansmann@@n
+Vannevar Bush@@n
+Verhulst, Pierre-Francois@@n
+Victor R. Lesser@@n
+Victoria Hodge@@n
+Vitalik Buterin@@n
+Vladimir Batagelj@@n
+Vladimir Vapnik@@n
+Volodymyr Mnih@@n
+W. Bruce Croft@@n
+W. Philip Kegelmeyer@@n
+W. T. Tutte@@n
+Walter L. Ruzzo@@n
+Warren McCulloch@@n
+Wei-Yin Loh@@n
+Wendy Hall@@n
+Wendy Lehnert@@n
+Wenjie Li@@n
+William (Red) L. Whittaker@@n
+William A Martin@@n
+William Bechtel@@n
+William Grey Walter@@n
+William J. Clancey@@n
+William J. Cook@@n
+William S. Jewell@@n
+William S. Lovejoy@@n
+William Sealy Gosset@@n
+William Stanley Jevons@@n
+Wing-Kin Sung@@n
+Woldemar Voigt@@n
+Wolfgang Dür@@n
+Wolfgang Maass@@n
+Wolfram Burgard@@n
+Wonyong Sung@@n
+Woodrow Wilson (Woody) Bledsoe@@n
+Xiaolin Wu@@n
+Xiaoou Tang@@n
+Xie (Jeff) Chen@@n
+Xingjian Shi@@n
+Xudong Mao@@n
+Xuming He@@n
+Y.H.J.M. Arens@@n
+Yair Weiss@@n
+Yann LeCun@@n
+Yanran Li@@n
+Yariv Ephraim@@n
+Yasuo Matsuyama@@n
+Yee-Whye Teh@@n
+Yegnanarayana Bayya@@n
+Yi WU@@n
+Yiannis Demiris@@n
+Yiming Yang@@n
+Yizhou Sun@@n
+Yoav Freund@@n
+Yonina C. Eldar@@n
+Yoram Singer@@n
+Yoshua Bengio@@n
+Youngjoong Joo@@n
+Yuji Sugita@@n
+Yujia Li@@n
+Yurii Nesterov@@n
+Zellig Harris@@n
+Zhihua Zhou@@n
+Zhou Wang@@n
+Zili (Jack) Yi@@n
+Zong Woo Geem@@n
+Zoubin Ghahramani@@n

@@ -1,0 +1,1237 @@
+2019-02-07 11:24:05,463:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='test', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-07 11:24:07,490:INFO: =========== testing ===========
+2019-02-07 11:24:07,490:INFO: =========== testing ===========
+2019-02-07 11:24:07,491:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 11:24:07,491:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 11:24:49,682:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-07 11:24:51,557:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 11:24:51,557:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 11:25:00,090:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-07 11:25:06,659:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-07 11:25:08,256:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 11:25:08,256:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 16:17:29,018:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-07 16:17:31,564:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 16:17:31,564:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 17:27:46,221:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-07 17:27:47,793:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 17:27:47,793:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 17:28:31,897:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-07 17:29:34,595:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-07 17:31:52,530:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='demo', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-07 17:33:52,615:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-07 17:33:54,171:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 17:33:54,171:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 17:36:15,325:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-07 17:36:16,895:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 17:36:16,895:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 18:09:28,158:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-07 18:09:29,547:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 18:09:29,547:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 18:11:22,226:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-07 18:11:23,804:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-07 18:11:23,804:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 19:20:12,939:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 21:41:44,788:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 21:41:46,475:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 21:41:46,475:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 21:44:19,317:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 21:44:20,767:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 21:44:20,767:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 21:46:16,008:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 21:46:17,830:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 21:46:17,830:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 21:52:31,331:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 21:52:32,999:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 21:52:32,999:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 21:54:47,525:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 21:54:49,734:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 21:54:49,734:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 21:56:46,899:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 21:56:48,354:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 21:56:48,354:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 21:58:11,449:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 21:58:12,917:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 21:58:12,917:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 22:01:31,774:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 22:01:33,283:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 22:01:33,283:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 22:01:34,315:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 22:01:34,315:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 22:01:34,330:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 22:01:34,330:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 22:01:35,028:DEBUG: Loading model cost 0.713 seconds.
+2019-02-08 22:01:35,028:DEBUG: Loading model cost 0.713 seconds.
+2019-02-08 22:01:35,029:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 22:01:35,029:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 22:03:03,042:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 22:03:04,914:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 22:03:04,914:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 22:03:05,927:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 22:03:05,927:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 22:03:05,930:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 22:03:05,930:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 22:03:06,669:DEBUG: Loading model cost 0.741 seconds.
+2019-02-08 22:03:06,669:DEBUG: Loading model cost 0.741 seconds.
+2019-02-08 22:03:06,669:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 22:03:06,669:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 22:27:28,844:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 22:27:30,501:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 22:27:30,501:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 22:27:31,580:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 22:27:31,580:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 22:27:31,584:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 22:27:31,584:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 22:27:32,239:DEBUG: Loading model cost 0.659 seconds.
+2019-02-08 22:27:32,239:DEBUG: Loading model cost 0.659 seconds.
+2019-02-08 22:27:32,239:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 22:27:32,239:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 22:45:09,284:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 22:45:10,803:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 22:45:10,803:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 22:45:12,038:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 22:45:12,038:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 22:45:12,053:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 22:45:12,053:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 22:45:12,751:DEBUG: Loading model cost 0.713 seconds.
+2019-02-08 22:45:12,751:DEBUG: Loading model cost 0.713 seconds.
+2019-02-08 22:45:12,751:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 22:45:12,751:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 22:52:00,925:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 22:52:02,561:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 22:52:02,561:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 22:52:03,702:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 22:52:03,702:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 22:52:03,711:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 22:52:03,711:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 22:52:04,524:DEBUG: Loading model cost 0.821 seconds.
+2019-02-08 22:52:04,524:DEBUG: Loading model cost 0.821 seconds.
+2019-02-08 22:52:04,524:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 22:52:04,524:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 23:12:49,924:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 23:12:51,814:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 23:12:51,814:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 23:12:52,951:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 23:12:52,951:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 23:12:52,953:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 23:12:52,953:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 23:12:53,701:DEBUG: Loading model cost 0.750 seconds.
+2019-02-08 23:12:53,701:DEBUG: Loading model cost 0.750 seconds.
+2019-02-08 23:12:53,701:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 23:12:53,701:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 23:21:12,717:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 23:21:14,113:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 23:21:14,113:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 23:21:14,993:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 23:21:14,993:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 23:21:14,995:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 23:21:14,995:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 23:21:15,626:DEBUG: Loading model cost 0.633 seconds.
+2019-02-08 23:21:15,626:DEBUG: Loading model cost 0.633 seconds.
+2019-02-08 23:21:15,626:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 23:21:15,626:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 23:24:10,308:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 23:24:11,690:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 23:24:11,690:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 23:24:12,576:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 23:24:12,576:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 23:24:12,578:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 23:24:12,578:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 23:24:13,253:DEBUG: Loading model cost 0.677 seconds.
+2019-02-08 23:24:13,253:DEBUG: Loading model cost 0.677 seconds.
+2019-02-08 23:24:13,254:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 23:24:13,254:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 23:25:59,273:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 23:26:00,686:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 23:26:00,686:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 23:26:01,573:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 23:26:01,573:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 23:26:01,575:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 23:26:01,575:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 23:26:02,251:DEBUG: Loading model cost 0.677 seconds.
+2019-02-08 23:26:02,251:DEBUG: Loading model cost 0.677 seconds.
+2019-02-08 23:26:02,251:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 23:26:02,251:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 23:27:52,015:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 23:27:53,414:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 23:27:53,414:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 23:27:54,307:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 23:27:54,307:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 23:27:54,310:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 23:27:54,310:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 23:27:54,948:DEBUG: Loading model cost 0.640 seconds.
+2019-02-08 23:27:54,948:DEBUG: Loading model cost 0.640 seconds.
+2019-02-08 23:27:54,948:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 23:27:54,948:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 23:31:29,536:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-08 23:31:30,941:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 23:31:30,941:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-08 23:31:31,836:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 23:31:31,836:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-08 23:31:31,838:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 23:31:31,838:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-08 23:31:32,505:DEBUG: Loading model cost 0.668 seconds.
+2019-02-08 23:31:32,505:DEBUG: Loading model cost 0.668 seconds.
+2019-02-08 23:31:32,505:DEBUG: Prefix dict has been built succesfully.
+2019-02-08 23:31:32,505:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 11:01:19,767:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 11:01:21,582:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 11:01:21,582:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 11:18:10,484:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 11:18:11,994:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 11:18:11,994:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 11:18:13,125:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 11:18:13,125:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 11:18:13,128:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 11:18:13,128:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 11:18:13,796:DEBUG: Loading model cost 0.671 seconds.
+2019-02-09 11:18:13,796:DEBUG: Loading model cost 0.671 seconds.
+2019-02-09 11:18:13,796:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 11:18:13,796:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:06:13,059:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 12:06:15,232:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:06:15,232:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:06:16,624:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:06:16,624:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:06:16,628:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:06:16,628:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:06:17,364:DEBUG: Loading model cost 0.739 seconds.
+2019-02-09 12:06:17,364:DEBUG: Loading model cost 0.739 seconds.
+2019-02-09 12:06:17,364:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:06:17,364:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:09:46,365:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 12:09:48,124:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:09:48,124:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:09:49,106:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:09:49,106:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:09:49,108:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:09:49,108:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:09:49,743:DEBUG: Loading model cost 0.637 seconds.
+2019-02-09 12:09:49,743:DEBUG: Loading model cost 0.637 seconds.
+2019-02-09 12:09:49,743:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:09:49,743:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:19:42,280:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 12:19:43,921:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:19:43,921:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:19:45,058:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:19:45,058:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:19:45,059:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:19:45,059:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:19:45,749:DEBUG: Loading model cost 0.691 seconds.
+2019-02-09 12:19:45,749:DEBUG: Loading model cost 0.691 seconds.
+2019-02-09 12:19:45,751:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:19:45,751:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:40:47,691:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 12:40:49,477:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:40:49,477:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:40:50,715:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:40:50,715:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:40:50,718:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:40:50,718:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:40:51,413:DEBUG: Loading model cost 0.698 seconds.
+2019-02-09 12:40:51,413:DEBUG: Loading model cost 0.698 seconds.
+2019-02-09 12:40:51,413:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:40:51,413:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:41:18,186:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 12:41:20,148:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:41:20,148:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:41:21,203:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:41:21,203:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:41:21,204:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:41:21,204:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:41:22,071:DEBUG: Loading model cost 0.867 seconds.
+2019-02-09 12:41:22,071:DEBUG: Loading model cost 0.867 seconds.
+2019-02-09 12:41:22,071:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:41:22,071:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:41:38,967:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 12:41:40,466:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:41:40,466:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:41:41,369:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:41:41,369:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:41:41,370:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:41:41,370:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:41:42,169:DEBUG: Loading model cost 0.800 seconds.
+2019-02-09 12:41:42,169:DEBUG: Loading model cost 0.800 seconds.
+2019-02-09 12:41:42,169:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:41:42,169:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:43:57,407:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 12:43:58,879:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:43:58,879:INFO: Restoring parameters from ./data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 12:43:59,761:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:43:59,761:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 12:43:59,763:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:43:59,763:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 12:44:00,466:DEBUG: Loading model cost 0.705 seconds.
+2019-02-09 12:44:00,466:DEBUG: Loading model cost 0.705 seconds.
+2019-02-09 12:44:00,466:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 12:44:00,466:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:09:26,502:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:11:13,727:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:13:18,458:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:13:19,859:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:13:19,859:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:13:20,925:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:13:20,925:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:13:20,928:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:13:20,928:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:13:21,665:DEBUG: Loading model cost 0.739 seconds.
+2019-02-09 16:13:21,665:DEBUG: Loading model cost 0.739 seconds.
+2019-02-09 16:13:21,665:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:13:21,665:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:20:19,001:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:20:20,666:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:20:20,666:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:20:21,944:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:20:21,944:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:20:21,949:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:20:21,949:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:20:22,650:DEBUG: Loading model cost 0.706 seconds.
+2019-02-09 16:20:22,650:DEBUG: Loading model cost 0.706 seconds.
+2019-02-09 16:20:22,650:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:20:22,650:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:24:54,548:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:24:56,105:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:24:56,105:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:24:57,140:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:24:57,140:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:24:57,142:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:24:57,142:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:24:57,997:DEBUG: Loading model cost 0.857 seconds.
+2019-02-09 16:24:57,997:DEBUG: Loading model cost 0.857 seconds.
+2019-02-09 16:24:57,997:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:24:57,997:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:31:05,759:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:31:07,510:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:31:07,510:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:32:44,687:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:32:46,111:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:32:46,111:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:32:47,056:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:32:47,056:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:32:47,060:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:32:47,060:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:32:47,758:DEBUG: Loading model cost 0.701 seconds.
+2019-02-09 16:32:47,758:DEBUG: Loading model cost 0.701 seconds.
+2019-02-09 16:32:47,758:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:32:47,758:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:34:18,269:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:34:19,776:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:34:19,776:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:34:20,747:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:34:20,747:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:34:20,750:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:34:20,750:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:34:21,485:DEBUG: Loading model cost 0.738 seconds.
+2019-02-09 16:34:21,485:DEBUG: Loading model cost 0.738 seconds.
+2019-02-09 16:34:21,486:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:34:21,486:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:36:16,660:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:36:18,397:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:36:18,397:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:36:19,359:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:36:19,359:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:36:19,367:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:36:19,367:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:36:20,053:DEBUG: Loading model cost 0.694 seconds.
+2019-02-09 16:36:20,053:DEBUG: Loading model cost 0.694 seconds.
+2019-02-09 16:36:20,053:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:36:20,053:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:37:35,073:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:37:36,527:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:37:36,527:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:37:37,342:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:37:37,342:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:37:37,344:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:37:37,344:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:37:37,994:DEBUG: Loading model cost 0.651 seconds.
+2019-02-09 16:37:37,994:DEBUG: Loading model cost 0.651 seconds.
+2019-02-09 16:37:37,994:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:37:37,994:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:38:34,299:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:38:35,950:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:38:35,950:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:38:36,965:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:38:36,965:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:38:36,968:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:38:36,968:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:38:37,670:DEBUG: Loading model cost 0.705 seconds.
+2019-02-09 16:38:37,670:DEBUG: Loading model cost 0.705 seconds.
+2019-02-09 16:38:37,670:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:38:37,670:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:38:55,169:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:38:56,681:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:38:56,681:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:38:57,554:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:38:57,554:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:38:57,556:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:38:57,556:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:38:58,197:DEBUG: Loading model cost 0.643 seconds.
+2019-02-09 16:38:58,197:DEBUG: Loading model cost 0.643 seconds.
+2019-02-09 16:38:58,197:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:38:58,197:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:40:42,478:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:40:43,987:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:40:43,987:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:40:44,790:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:40:44,790:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:40:44,793:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:40:44,793:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:40:45,437:DEBUG: Loading model cost 0.646 seconds.
+2019-02-09 16:40:45,437:DEBUG: Loading model cost 0.646 seconds.
+2019-02-09 16:40:45,437:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:40:45,437:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:41:58,897:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:42:00,284:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:42:00,284:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:42:01,096:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:42:01,096:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:42:01,099:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:42:01,099:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:42:01,722:DEBUG: Loading model cost 0.626 seconds.
+2019-02-09 16:42:01,722:DEBUG: Loading model cost 0.626 seconds.
+2019-02-09 16:42:01,723:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:42:01,723:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:42:48,350:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:42:49,927:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:42:49,927:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:42:51,057:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:42:51,057:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:42:51,059:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:42:51,059:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:42:51,740:DEBUG: Loading model cost 0.683 seconds.
+2019-02-09 16:42:51,740:DEBUG: Loading model cost 0.683 seconds.
+2019-02-09 16:42:51,740:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:42:51,740:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:44:38,613:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:44:40,008:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:44:40,008:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:44:40,802:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:44:40,802:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:44:40,805:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:44:40,805:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:44:41,442:DEBUG: Loading model cost 0.640 seconds.
+2019-02-09 16:44:41,442:DEBUG: Loading model cost 0.640 seconds.
+2019-02-09 16:44:41,443:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:44:41,443:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:46:14,038:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:46:15,419:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:46:15,419:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:46:16,237:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:46:16,237:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:46:16,240:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:46:16,240:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:46:16,881:DEBUG: Loading model cost 0.644 seconds.
+2019-02-09 16:46:16,881:DEBUG: Loading model cost 0.644 seconds.
+2019-02-09 16:46:16,881:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:46:16,881:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:46:56,821:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:46:58,228:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:46:58,228:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:46:59,046:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:46:59,046:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:46:59,056:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:46:59,056:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:46:59,747:DEBUG: Loading model cost 0.700 seconds.
+2019-02-09 16:46:59,747:DEBUG: Loading model cost 0.700 seconds.
+2019-02-09 16:46:59,747:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:46:59,747:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:48:18,314:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:48:19,700:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:48:19,700:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:48:20,504:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:48:20,504:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:48:20,513:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:48:20,513:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:48:21,191:DEBUG: Loading model cost 0.687 seconds.
+2019-02-09 16:48:21,191:DEBUG: Loading model cost 0.687 seconds.
+2019-02-09 16:48:21,191:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:48:21,191:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:55:32,043:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 16:55:34,633:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:55:34,633:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 16:55:35,931:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:55:35,931:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 16:55:35,935:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:55:35,935:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 16:55:36,622:DEBUG: Loading model cost 0.691 seconds.
+2019-02-09 16:55:36,622:DEBUG: Loading model cost 0.691 seconds.
+2019-02-09 16:55:36,622:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 16:55:36,622:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 23:48:58,271:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 23:49:00,101:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 23:49:00,101:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 23:49:01,037:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 23:49:01,037:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 23:49:01,039:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 23:49:01,039:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 23:49:01,713:DEBUG: Loading model cost 0.676 seconds.
+2019-02-09 23:49:01,713:DEBUG: Loading model cost 0.676 seconds.
+2019-02-09 23:49:01,713:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 23:49:01,713:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 23:50:41,698:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 23:50:43,259:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 23:50:43,259:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 23:50:44,328:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 23:50:44,328:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 23:50:44,349:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 23:50:44,349:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 23:50:45,110:DEBUG: Loading model cost 0.782 seconds.
+2019-02-09 23:50:45,110:DEBUG: Loading model cost 0.782 seconds.
+2019-02-09 23:50:45,110:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 23:50:45,110:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 23:58:56,225:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-09 23:58:57,988:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 23:58:57,988:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-09 23:58:58,801:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 23:58:58,801:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-09 23:58:58,803:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 23:58:58,803:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-09 23:58:59,492:DEBUG: Loading model cost 0.691 seconds.
+2019-02-09 23:58:59,492:DEBUG: Loading model cost 0.691 seconds.
+2019-02-09 23:58:59,493:DEBUG: Prefix dict has been built succesfully.
+2019-02-09 23:58:59,493:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:15:20,075:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:15:21,835:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:15:21,835:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:15:22,877:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:15:22,877:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:15:22,879:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:15:22,879:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:15:23,740:DEBUG: Loading model cost 0.862 seconds.
+2019-02-10 00:15:23,740:DEBUG: Loading model cost 0.862 seconds.
+2019-02-10 00:15:23,740:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:15:23,740:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:18:53,759:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:18:55,212:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:18:55,212:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:18:55,934:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:18:55,934:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:18:55,936:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:18:55,936:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:18:56,644:DEBUG: Loading model cost 0.709 seconds.
+2019-02-10 00:18:56,644:DEBUG: Loading model cost 0.709 seconds.
+2019-02-10 00:18:56,644:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:18:56,644:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:19:36,625:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:19:38,040:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:19:38,040:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:19:38,678:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:19:38,678:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:19:38,680:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:19:38,680:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:19:39,365:DEBUG: Loading model cost 0.687 seconds.
+2019-02-10 00:19:39,365:DEBUG: Loading model cost 0.687 seconds.
+2019-02-10 00:19:39,365:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:19:39,365:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:22:11,898:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:22:13,392:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:22:13,392:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:23:04,564:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:23:06,001:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:23:06,001:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:23:17,874:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:23:19,302:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:23:19,302:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:23:19,957:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:23:19,957:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:23:19,960:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:23:19,960:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:23:20,692:DEBUG: Loading model cost 0.734 seconds.
+2019-02-10 00:23:20,692:DEBUG: Loading model cost 0.734 seconds.
+2019-02-10 00:23:20,692:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:23:20,692:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:25:08,455:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:25:09,893:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:25:09,893:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:25:10,527:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:25:10,527:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:25:10,530:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:25:10,530:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:25:11,198:DEBUG: Loading model cost 0.671 seconds.
+2019-02-10 00:25:11,198:DEBUG: Loading model cost 0.671 seconds.
+2019-02-10 00:25:11,198:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:25:11,198:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:26:15,134:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:26:17,009:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:26:17,009:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:26:17,780:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:26:17,780:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:26:17,782:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:26:17,782:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:26:18,520:DEBUG: Loading model cost 0.740 seconds.
+2019-02-10 00:26:18,520:DEBUG: Loading model cost 0.740 seconds.
+2019-02-10 00:26:18,520:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:26:18,520:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:27:39,807:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:27:41,275:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:27:41,275:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:27:41,924:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:27:41,924:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:27:41,926:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:27:41,926:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:27:42,583:DEBUG: Loading model cost 0.659 seconds.
+2019-02-10 00:27:42,583:DEBUG: Loading model cost 0.659 seconds.
+2019-02-10 00:27:42,583:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:27:42,583:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:28:13,897:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:28:15,368:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:28:15,368:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:28:16,025:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:28:16,025:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:28:16,028:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:28:16,028:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:28:16,708:DEBUG: Loading model cost 0.683 seconds.
+2019-02-10 00:28:16,708:DEBUG: Loading model cost 0.683 seconds.
+2019-02-10 00:28:16,708:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:28:16,708:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:29:44,202:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:29:45,648:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:29:45,648:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:29:46,304:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:29:46,304:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:29:46,305:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:29:46,305:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:29:46,987:DEBUG: Loading model cost 0.683 seconds.
+2019-02-10 00:29:46,987:DEBUG: Loading model cost 0.683 seconds.
+2019-02-10 00:29:46,987:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:29:46,987:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:36:02,297:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:36:03,741:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:36:03,741:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:36:04,612:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:36:04,612:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:36:04,613:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:36:04,613:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:36:05,353:DEBUG: Loading model cost 0.741 seconds.
+2019-02-10 00:36:05,353:DEBUG: Loading model cost 0.741 seconds.
+2019-02-10 00:36:05,353:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:36:05,353:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:41:23,879:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:41:25,453:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:41:25,453:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:41:26,527:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:41:26,527:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:41:26,529:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:41:26,529:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:41:27,210:DEBUG: Loading model cost 0.683 seconds.
+2019-02-10 00:41:27,210:DEBUG: Loading model cost 0.683 seconds.
+2019-02-10 00:41:27,210:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:41:27,210:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:45:19,966:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:45:21,409:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:45:21,409:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:45:22,177:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:45:22,177:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:45:22,179:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:45:22,179:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:45:22,870:DEBUG: Loading model cost 0.693 seconds.
+2019-02-10 00:45:22,870:DEBUG: Loading model cost 0.693 seconds.
+2019-02-10 00:45:22,870:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:45:22,870:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:48:47,374:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 00:48:48,813:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:48:48,813:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 00:48:49,484:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:48:49,484:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 00:48:49,488:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:48:49,488:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 00:48:50,201:DEBUG: Loading model cost 0.715 seconds.
+2019-02-10 00:48:50,201:DEBUG: Loading model cost 0.715 seconds.
+2019-02-10 00:48:50,201:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 00:48:50,201:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 01:29:32,135:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 01:29:33,601:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 01:29:33,601:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 01:29:34,553:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 01:29:34,553:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 01:29:34,556:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 01:29:34,556:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 01:29:35,249:DEBUG: Loading model cost 0.695 seconds.
+2019-02-10 01:29:35,249:DEBUG: Loading model cost 0.695 seconds.
+2019-02-10 01:29:35,249:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 01:29:35,249:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 01:30:48,664:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 01:30:49,994:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 01:30:49,994:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 01:30:50,609:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 01:30:50,609:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 01:30:50,611:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 01:30:50,611:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 01:30:51,244:DEBUG: Loading model cost 0.635 seconds.
+2019-02-10 01:30:51,244:DEBUG: Loading model cost 0.635 seconds.
+2019-02-10 01:30:51,246:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 01:30:51,246:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 01:31:39,246:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-10 01:31:40,588:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 01:31:40,588:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-10 01:31:41,185:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 01:31:41,185:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-10 01:31:41,188:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 01:31:41,188:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-10 01:31:41,808:DEBUG: Loading model cost 0.623 seconds.
+2019-02-10 01:31:41,808:DEBUG: Loading model cost 0.623 seconds.
+2019-02-10 01:31:41,809:DEBUG: Prefix dict has been built succesfully.
+2019-02-10 01:31:41,809:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 14:51:14,529:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 14:51:16,273:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 14:51:16,273:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 14:51:17,413:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 14:51:17,413:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 14:51:17,414:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 14:51:17,414:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 14:51:18,127:DEBUG: Loading model cost 0.714 seconds.
+2019-02-11 14:51:18,127:DEBUG: Loading model cost 0.714 seconds.
+2019-02-11 14:51:18,127:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 14:51:18,127:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 14:54:45,803:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 14:54:47,330:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 14:54:47,330:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 14:54:48,236:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 14:54:48,236:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 14:54:48,238:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 14:54:48,238:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 14:54:48,956:DEBUG: Loading model cost 0.720 seconds.
+2019-02-11 14:54:48,956:DEBUG: Loading model cost 0.720 seconds.
+2019-02-11 14:54:48,956:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 14:54:48,956:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:01:14,020:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 15:01:15,423:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:01:15,423:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:01:16,237:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:01:16,237:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:01:16,240:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:01:16,240:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:01:16,922:DEBUG: Loading model cost 0.684 seconds.
+2019-02-11 15:01:16,922:DEBUG: Loading model cost 0.684 seconds.
+2019-02-11 15:01:16,922:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:01:16,922:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:03:28,765:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 15:03:30,125:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:03:30,125:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:03:30,742:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:03:30,742:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:03:30,743:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:03:30,743:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:03:31,421:DEBUG: Loading model cost 0.679 seconds.
+2019-02-11 15:03:31,421:DEBUG: Loading model cost 0.679 seconds.
+2019-02-11 15:03:31,422:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:03:31,422:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:03:55,598:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 15:03:56,962:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:03:56,962:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:03:57,589:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:03:57,589:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:03:57,591:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:03:57,591:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:03:58,299:DEBUG: Loading model cost 0.710 seconds.
+2019-02-11 15:03:58,299:DEBUG: Loading model cost 0.710 seconds.
+2019-02-11 15:03:58,299:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:03:58,299:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:05:16,250:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 15:05:17,658:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:05:17,658:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:05:18,268:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:05:18,268:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:05:18,270:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:05:18,270:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:05:18,902:DEBUG: Loading model cost 0.634 seconds.
+2019-02-11 15:05:18,902:DEBUG: Loading model cost 0.634 seconds.
+2019-02-11 15:05:18,902:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:05:18,902:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:05:30,181:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 15:05:31,565:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:05:31,565:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:05:32,191:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:05:32,191:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:05:32,193:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:05:32,193:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:05:32,873:DEBUG: Loading model cost 0.682 seconds.
+2019-02-11 15:05:32,873:DEBUG: Loading model cost 0.682 seconds.
+2019-02-11 15:05:32,873:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:05:32,873:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:06:36,799:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 15:06:38,167:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:06:38,167:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:06:38,782:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:06:38,782:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:06:38,785:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:06:38,785:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:06:39,416:DEBUG: Loading model cost 0.633 seconds.
+2019-02-11 15:06:39,416:DEBUG: Loading model cost 0.633 seconds.
+2019-02-11 15:06:39,416:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:06:39,416:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:07:14,654:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 15:07:16,312:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:07:16,312:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:07:17,036:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:07:17,036:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:07:17,037:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:07:17,037:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:07:17,794:DEBUG: Loading model cost 0.759 seconds.
+2019-02-11 15:07:17,794:DEBUG: Loading model cost 0.759 seconds.
+2019-02-11 15:07:17,795:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:07:17,795:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:09:07,121:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 15:09:08,672:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:09:08,672:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:09:09,373:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:09:09,373:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:09:09,375:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:09:09,375:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:09:10,028:DEBUG: Loading model cost 0.655 seconds.
+2019-02-11 15:09:10,028:DEBUG: Loading model cost 0.655 seconds.
+2019-02-11 15:09:10,029:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:09:10,029:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:09:59,239:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 15:10:00,616:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:10:00,616:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:10:01,345:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:10:01,345:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:10:01,345:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:10:01,345:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:10:02,004:DEBUG: Loading model cost 0.660 seconds.
+2019-02-11 15:10:02,004:DEBUG: Loading model cost 0.660 seconds.
+2019-02-11 15:10:02,005:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:10:02,005:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:10:50,542:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 15:10:51,934:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:10:51,934:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:10:52,567:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:10:52,567:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:10:52,569:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:10:52,569:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:10:53,206:DEBUG: Loading model cost 0.639 seconds.
+2019-02-11 15:10:53,206:DEBUG: Loading model cost 0.639 seconds.
+2019-02-11 15:10:53,207:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:10:53,207:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:11:53,619:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 15:11:54,959:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:11:54,959:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:11:55,578:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:11:55,578:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:11:55,580:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:11:55,580:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:11:56,205:DEBUG: Loading model cost 0.626 seconds.
+2019-02-11 15:11:56,205:DEBUG: Loading model cost 0.626 seconds.
+2019-02-11 15:11:56,205:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:11:56,205:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:14:32,739:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 15:14:34,100:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:14:34,100:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 15:14:34,776:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:14:34,776:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 15:14:34,779:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:14:34,779:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 15:14:35,410:DEBUG: Loading model cost 0.634 seconds.
+2019-02-11 15:14:35,410:DEBUG: Loading model cost 0.634 seconds.
+2019-02-11 15:14:35,410:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 15:14:35,410:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:04:19,913:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:04:21,416:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:04:21,416:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:04:54,788:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:04:56,170:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:04:56,170:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:04:56,804:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:04:56,804:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:04:57,559:DEBUG: Dumping model to file cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:04:57,559:DEBUG: Dumping model to file cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:04:57,617:DEBUG: Loading model cost 0.812 seconds.
+2019-02-11 16:04:57,617:DEBUG: Loading model cost 0.812 seconds.
+2019-02-11 16:04:57,617:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:04:57,617:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:05:39,281:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:05:40,615:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:05:40,615:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:05:41,264:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:05:41,264:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:05:41,266:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:05:41,266:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:05:41,897:DEBUG: Loading model cost 0.633 seconds.
+2019-02-11 16:05:41,897:DEBUG: Loading model cost 0.633 seconds.
+2019-02-11 16:05:41,897:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:05:41,897:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:07:00,555:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:07:02,540:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:07:02,540:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:07:03,958:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:07:03,958:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:07:03,959:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:07:03,959:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:07:05,000:DEBUG: Loading model cost 1.041 seconds.
+2019-02-11 16:07:05,000:DEBUG: Loading model cost 1.041 seconds.
+2019-02-11 16:07:05,000:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:07:05,000:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:07:10,065:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:07:11,853:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:07:11,853:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:07:12,534:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:07:12,534:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:07:12,536:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:07:12,536:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:07:13,233:DEBUG: Loading model cost 0.699 seconds.
+2019-02-11 16:07:13,233:DEBUG: Loading model cost 0.699 seconds.
+2019-02-11 16:07:13,234:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:07:13,234:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:07:19,939:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:07:23,307:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:07:23,307:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:07:24,261:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:07:24,261:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:07:24,263:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:07:24,263:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:07:24,976:DEBUG: Loading model cost 0.714 seconds.
+2019-02-11 16:07:24,976:DEBUG: Loading model cost 0.714 seconds.
+2019-02-11 16:07:24,976:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:07:24,976:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:07:42,794:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:07:43,692:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:07:44,469:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:07:44,469:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:07:45,259:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:07:45,259:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:07:45,262:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:07:45,262:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:07:45,541:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:07:45,541:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:07:46,236:DEBUG: Loading model cost 0.977 seconds.
+2019-02-11 16:07:46,236:DEBUG: Loading model cost 0.977 seconds.
+2019-02-11 16:07:46,237:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:07:46,237:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:07:46,242:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:07:46,242:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:07:46,244:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:07:46,244:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:07:46,998:DEBUG: Loading model cost 0.756 seconds.
+2019-02-11 16:07:46,998:DEBUG: Loading model cost 0.756 seconds.
+2019-02-11 16:07:46,998:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:07:46,998:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:08:56,174:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:08:58,179:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:08:58,179:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:08:58,988:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:08:58,988:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:08:58,990:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:08:58,990:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:08:59,721:DEBUG: Loading model cost 0.732 seconds.
+2019-02-11 16:08:59,721:DEBUG: Loading model cost 0.732 seconds.
+2019-02-11 16:08:59,721:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:08:59,721:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:20:41,793:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:20:43,161:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:20:43,161:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:20:43,900:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:20:43,900:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:20:43,903:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:20:43,903:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:20:44,575:DEBUG: Loading model cost 0.675 seconds.
+2019-02-11 16:20:44,575:DEBUG: Loading model cost 0.675 seconds.
+2019-02-11 16:20:44,578:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:20:44,578:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:24:30,866:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:24:32,366:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:24:32,366:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:24:33,010:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:24:33,010:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:24:33,012:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:24:33,012:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:24:33,727:DEBUG: Loading model cost 0.717 seconds.
+2019-02-11 16:24:33,727:DEBUG: Loading model cost 0.717 seconds.
+2019-02-11 16:24:33,727:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:24:33,727:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:25:05,388:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:25:06,798:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:25:06,798:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:25:07,621:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:25:07,621:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:25:07,622:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:25:07,622:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:25:08,295:DEBUG: Loading model cost 0.674 seconds.
+2019-02-11 16:25:08,295:DEBUG: Loading model cost 0.674 seconds.
+2019-02-11 16:25:08,295:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:25:08,295:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:27:29,473:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:27:31,098:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:27:31,098:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:27:31,909:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:27:31,909:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:27:31,911:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:27:31,911:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:27:32,669:DEBUG: Loading model cost 0.760 seconds.
+2019-02-11 16:27:32,669:DEBUG: Loading model cost 0.760 seconds.
+2019-02-11 16:27:32,670:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:27:32,670:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:30:16,321:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:30:17,801:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:30:17,801:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:30:18,527:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:30:18,527:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:30:18,529:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:30:18,529:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:30:19,192:DEBUG: Loading model cost 0.665 seconds.
+2019-02-11 16:30:19,192:DEBUG: Loading model cost 0.665 seconds.
+2019-02-11 16:30:19,192:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:30:19,192:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:33:00,931:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:33:02,566:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:33:02,566:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:33:03,214:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:33:03,214:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:33:03,217:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:33:03,217:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:33:03,890:DEBUG: Loading model cost 0.675 seconds.
+2019-02-11 16:33:03,890:DEBUG: Loading model cost 0.675 seconds.
+2019-02-11 16:33:03,890:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:33:03,890:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:34:30,719:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:34:32,174:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:34:32,174:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:34:33,116:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:34:33,116:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:34:33,117:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:34:33,117:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:34:33,791:DEBUG: Loading model cost 0.675 seconds.
+2019-02-11 16:34:33,791:DEBUG: Loading model cost 0.675 seconds.
+2019-02-11 16:34:33,791:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:34:33,791:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:35:26,824:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:35:28,317:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:35:28,317:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:35:28,953:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:35:28,953:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:35:28,955:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:35:28,955:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:35:29,703:DEBUG: Loading model cost 0.750 seconds.
+2019-02-11 16:35:29,703:DEBUG: Loading model cost 0.750 seconds.
+2019-02-11 16:35:29,703:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:35:29,703:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:36:50,181:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:36:51,613:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:36:51,613:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:36:52,261:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:36:52,261:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:36:52,262:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:36:52,262:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:36:52,921:DEBUG: Loading model cost 0.660 seconds.
+2019-02-11 16:36:52,921:DEBUG: Loading model cost 0.660 seconds.
+2019-02-11 16:36:52,921:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:36:52,921:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:37:20,078:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:37:21,641:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:37:21,641:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:37:22,294:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:37:22,294:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:37:22,296:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:37:22,296:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:37:23,110:DEBUG: Loading model cost 0.816 seconds.
+2019-02-11 16:37:23,110:DEBUG: Loading model cost 0.816 seconds.
+2019-02-11 16:37:23,111:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:37:23,111:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:38:37,799:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:38:39,469:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:38:39,469:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:38:40,149:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:38:40,149:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:38:40,151:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:38:40,151:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:38:40,814:DEBUG: Loading model cost 0.665 seconds.
+2019-02-11 16:38:40,814:DEBUG: Loading model cost 0.665 seconds.
+2019-02-11 16:38:40,814:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:38:40,814:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:39:40,096:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:39:41,632:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:39:41,632:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:39:42,436:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:39:42,436:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:39:42,439:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:39:42,439:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:39:43,132:DEBUG: Loading model cost 0.696 seconds.
+2019-02-11 16:39:43,132:DEBUG: Loading model cost 0.696 seconds.
+2019-02-11 16:39:43,132:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:39:43,132:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:40:11,514:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:40:12,924:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:40:12,924:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:40:13,636:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:40:13,636:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:40:13,637:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:40:13,637:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:40:14,347:DEBUG: Loading model cost 0.711 seconds.
+2019-02-11 16:40:14,347:DEBUG: Loading model cost 0.711 seconds.
+2019-02-11 16:40:14,347:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:40:14,347:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:42:13,118:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 16:42:14,624:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:42:14,624:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 16:42:15,269:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:42:15,269:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 16:42:15,272:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:42:15,272:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 16:42:15,971:DEBUG: Loading model cost 0.701 seconds.
+2019-02-11 16:42:15,971:DEBUG: Loading model cost 0.701 seconds.
+2019-02-11 16:42:15,971:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 16:42:15,971:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 18:02:19,417:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-11 18:02:21,058:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 18:02:21,058:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-11 18:02:22,174:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 18:02:22,174:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-11 18:02:22,176:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 18:02:22,176:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-11 18:02:22,839:DEBUG: Loading model cost 0.665 seconds.
+2019-02-11 18:02:22,839:DEBUG: Loading model cost 0.665 seconds.
+2019-02-11 18:02:22,840:DEBUG: Prefix dict has been built succesfully.
+2019-02-11 18:02:22,840:DEBUG: Prefix dict has been built succesfully.
+2019-02-12 22:46:24,225:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 22:46:25,702:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 22:46:25,702:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 22:47:28,208:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 22:47:29,584:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 22:47:29,584:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 22:47:30,294:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-12 22:47:30,294:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-12 22:47:30,296:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-12 22:47:30,296:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-12 22:47:30,968:DEBUG: Loading model cost 0.675 seconds.
+2019-02-12 22:47:30,968:DEBUG: Loading model cost 0.675 seconds.
+2019-02-12 22:47:30,969:DEBUG: Prefix dict has been built succesfully.
+2019-02-12 22:47:30,969:DEBUG: Prefix dict has been built succesfully.
+2019-02-12 22:56:40,296:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 22:56:41,762:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 22:56:41,762:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 22:56:42,487:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-12 22:56:42,487:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-12 22:56:42,489:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-12 22:56:42,489:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-12 22:56:43,144:DEBUG: Loading model cost 0.657 seconds.
+2019-02-12 22:56:43,144:DEBUG: Loading model cost 0.657 seconds.
+2019-02-12 22:56:43,144:DEBUG: Prefix dict has been built succesfully.
+2019-02-12 22:56:43,144:DEBUG: Prefix dict has been built succesfully.
+2019-02-12 22:58:16,823:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 22:58:18,162:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 22:58:18,162:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 22:58:18,770:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-12 22:58:18,770:DEBUG: Building prefix dict from the default dictionary ...
+2019-02-12 22:58:18,779:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-12 22:58:18,779:DEBUG: Loading model from cache /var/folders/zl/r35f50_s4jq8gw1mj8g2rm9r0000gn/T/jieba.cache
+2019-02-12 22:58:19,433:DEBUG: Loading model cost 0.663 seconds.
+2019-02-12 22:58:19,433:DEBUG: Loading model cost 0.663 seconds.
+2019-02-12 22:58:19,433:DEBUG: Prefix dict has been built succesfully.
+2019-02-12 22:58:19,433:DEBUG: Prefix dict has been built succesfully.
+2019-02-12 23:11:11,885:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 23:11:13,511:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:11:13,511:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:42:23,035:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 23:42:24,503:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:42:24,503:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:43:12,592:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 23:43:13,900:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:43:13,900:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:44:20,894:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 23:44:22,245:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:44:22,245:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:45:01,654:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 23:45:02,985:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:45:02,985:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:49:20,435:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 23:49:21,756:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:49:21,756:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:49:50,312:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 23:49:51,696:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:49:51,696:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:49:56,773:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 23:49:58,101:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:49:58,101:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:55:16,072:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 23:55:17,541:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:55:17,541:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:56:19,858:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 23:56:21,325:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:56:21,325:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:57:15,621:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 23:57:17,183:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:57:17,183:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:57:45,726:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 23:57:48,764:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:57:48,764:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:59:10,250:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-12 23:59:11,669:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-12 23:59:11,669:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-13 00:04:59,056:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-13 00:05:00,811:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-13 00:05:00,811:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-13 00:06:02,373:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-13 00:06:03,847:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-13 00:06:03,847:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-13 00:06:55,968:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-13 00:06:57,594:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-13 00:06:57,594:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-14 22:07:38,477:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-14 22:07:39,951:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-14 22:07:39,951:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-14 22:41:13,470:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-14 22:41:14,989:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-14 22:41:14,989:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-14 22:42:07,018:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-14 22:42:08,454:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-14 22:42:08,454:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 18:20:38,016:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 18:20:39,933:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 18:20:39,933:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 19:04:04,865:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 19:04:06,271:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 19:04:06,271:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 20:11:28,749:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 20:11:30,311:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 20:11:30,311:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 20:11:55,174:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 20:11:56,655:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 20:11:56,655:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:06:15,728:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:06:17,291:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:06:17,291:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:20:26,841:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:20:28,450:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:20:28,450:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:21:37,185:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:21:38,709:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:21:38,709:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:22:05,738:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:22:07,231:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:22:07,231:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:22:37,376:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:22:38,915:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:22:38,915:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:23:27,365:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:23:28,788:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:23:28,788:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:23:50,005:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:23:51,436:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:23:51,436:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:46:24,291:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:46:26,115:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:46:26,115:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:46:47,538:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:46:49,038:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:46:49,038:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:47:22,336:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:47:23,845:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:47:23,845:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:48:04,187:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:48:05,673:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:48:05,673:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:48:27,083:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:48:28,548:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:48:28,548:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:49:49,995:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:49:51,517:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:49:51,517:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:58:01,760:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:58:03,339:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:58:03,339:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:59:02,617:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:59:04,113:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:59:04,113:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:59:45,864:INFO: Namespace(CRF=True, batch_size=64, clip=5.0, demo_model='1521112368', dropout=0.5, embedding_dim=300, epoch=40, hidden_dim=300, lr=0.001, mode='analysis', optimizer='Adam', pretrain_embedding='random', shuffle=True, test_data='data_path', train_data='data_path', update_embedding=True)
+2019-02-16 21:59:47,366:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680
+2019-02-16 21:59:47,366:INFO: Restoring parameters from zh_NER_TF/data_path_save/1521112368/checkpoints/model-31680

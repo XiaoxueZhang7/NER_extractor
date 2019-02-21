@@ -1,0 +1,827 @@
+David Heckerman
+Jan Peters
+Charles Francis Hockett
+彼得阿贝尔
+Loren Terveen
+Neil Robertson
+T. Anthony Marsland
+约翰特西斯克里斯
+熊蔡明
+Edsger W. Dijkstra
+卡米尔乔丹
+Igor Kononenko
+Gerard Salton
+Christian Szegedy
+Andreas Geiger
+Raphael A. Finkel
+James Joseph Sylvester (1814-1897)
+John W. Sammon
+Chin-Yew Lin
+James Bergstra
+Laszlo Lovasz
+Ken Goldberg
+Kishor Trivedi
+Diederik P. Kingma
+Xie (Jeff) Chen
+John Makhoul
+Michael Collins
+Abraham de Moivre
+Morgan Quigley
+Peter F. Brown
+Kenneth Church
+Taeksoo Kim
+布拉德利J.克莱门特
+Zong Woo Geem
+Jianhua Tao
+Mubarak Shah
+Martial Hebert
+Kunihiko Fukushima
+Andrey Markov
+Tejas Kulkarni
+林智仁
+Stephen E. Robertson
+韦福如
+Douglas Bruce Lenat
+Michael I. Jordan
+Edmund Edward Fournier d'Albe
+陶建华
+Ludwig Wittgenstein
+Richard E. Bellman
+卡尔·弗里德里希·高斯
+Bradley Efron
+Gail Carpenter
+Yiannis Demiris
+Hasegawa, O.
+Ulrich H. E. Hansmann
+Albert Einstein
+Sheldon Ross
+Chung-Jen Tan
+William J. Clancey
+Thomas Hofmann
+長谷川 修
+Erhard Schmidt (1876-1959)
+George B. Dantzig
+Arthur Hoerl
+勒让德
+Kristina Toutanova
+颜水成
+Ronald J. Brachman
+毛炳寰
+Alan Asbeck
+Joseph Engelberger
+Oren Etzioni
+McFadden, Daniel
+David H. Wolpert
+Youngjoong Joo
+Mark W. Tilden
+Zhihua Zhou
+Shaoqing Ren
+Doug Reynolds
+Peter Rousseeuw
+Austin Tate
+Richard Zemel
+Anil K. Jain
+Ulf D. Schiller
+Yurii Nesterov
+Timothy John Berners-Lee
+Wing-Kin Sung
+Metropolis, Nicholas
+Jerome H. Friedman
+Camille Jordan
+尤里·涅斯捷罗夫
+Mathieu Sinn
+于尔根·施密德胡伯
+李航
+Yee-Whye Teh
+Ron Brachman
+Jung-Min Park
+Kent A. Spackman
+Wendy Lehnert
+Richard S. Sutton
+Martin Davis
+大卫银
+George Boole
+Bernt Schiele
+Sartaj Sahni
+Fabrizio Sebastiani
+Frederick Jelinek
+齐国君
+Phil Wolfe
+何恺明
+Nils J. Nilsson
+Melvin Earl (Bill) Maron
+Louis Victor Allis
+Kristen Grauman
+Yoshua Bengio
+John Wright
+Zili (Jack) Yi
+Jeffrey Cohn
+陈蓓
+Chee-Kheong Siew
+Francis Galton
+Leonhard Euler
+Hal Daumé III
+Michael Mozer
+Egon Sharpe Pearson
+托马斯·W·马隆
+李沐
+Ross Girshick
+雨果·迪诺齐齐斯坦豪斯
+Henry Landau
+Jerzy Neyman
+俞栋
+He Haibo
+Michael Wooldridge
+雅可比
+ToMaso Poggio
+Shuicheng Yan
+Victoria Hodge
+哈密顿
+Antoine Cully
+Pierre François Verhulst
+Christopher Granger Atkeson
+Kevin Crowston
+John A. Robinson
+Rob Fergus
+Ian Watson
+Song Han
+Stefan Schaal
+Aske Plaat
+杰弗里·辛顿
+Allan M. Collins
+Corinna Cortes
+Isidro F.Aguillo
+Ronald C. Arkin
+Tomas Mikolov
+Haesun Park
+Gregory F. Cooper
+达芙妮·科勒
+安德雷·马尔可夫
+毛旭东
+Michael Fielding Barnsley
+Robert H. Swendsen
+Xiaoou Tang
+Thomas M. Cover
+Daniel L Rubinfeld
+Dzmitry Bahdanau
+William Bechtel
+Jorge Nocedal
+Herbert Jaeger
+Furu Wei
+Avram Noam Chomsky
+Mehdi Mirza
+申富饶
+Alan Bovik
+Paul Utgoff
+彼得罗梭
+Yuji Sugita
+Raymond Bernard Cattell
+Jon Bentley
+Tianqi Chen
+Dan Klein
+王军
+Thomas W. Malone
+Tullio Levi-Civita
+Charlie Geyer
+Roman Slowinski
+Reinhard Selten
+Ichiro Kato
+Ian Hacking
+Karl Küpfmüller
+Chin-Hui LEE
+Daniel D. Lee
+Tom Dean
+Ming Yu Hsieh
+Xudong Mao
+Nicholas Carlini
+Yizhou Sun
+Sebastian Riedel
+Chih-Jen Lin
+Roger C. Schank
+周志华
+裴健
+Anders Krogh
+Bela Bollobas
+Hans Peter Luhn
+Udny Yule
+Hugo Dyonizy Steinhaus
+George Karypis
+Dong Yu
+Keiichi Tokuda
+Philip Dawid
+Alan E. Gelfand
+Allan H. Murphy
+R.C. Lacher
+维克托·R·雷瑟
+吴翼
+Geman, S.; Geman, D.
+Wolfgang Maass
+Karen Simonyan
+汤晓鸥
+Qiang Yang
+Hiroshi Ishiguro
+Jason Calaiaro
+Dumitru Erhan
+Theodosios Pavlidis
+Balázs Kégl
+Diego Calvanese
+Paul Smolensky
+David K. Gifford
+Ryan Prescott Adams
+乔治·B·丹茨格
+Theodore Wilbur Anderson
+马丁·埃斯特
+约书亚·本吉奥
+Edward Feigenbaum
+Andreas Stolcke
+Gunnar Fant
+Rajeev Motwani
+Michael L. Mavrovouniotls
+钱宁
+Chi-Hyuck Jun
+Huang Guangbin
+Karl Moritz Hermann
+基思·S·德克尔
+John L. Horn
+Peter N. Belhumeur
+Wonyong Sung
+Richard A. Leibler
+Hamilton, W.R
+Torsten Nils Wiesel
+艾曼纽·J·坎迪斯
+Nigel Shadbolt
+Feng-hsiung Hsu
+Bruce Buchanan
+Robert Schapire
+Andrei Nikolaevich Tikhonov
+Jian-Sheng Wang
+Michael Steinbach
+Robert W. Brodersen
+Charles Sutton
+Yariv Ephraim
+Jianbo Shi
+刘铁岩
+Jacob Goldberger
+Thorsten Joachims
+帕斯卡尔·文森特
+Felix Alexander Gers
+卡尔·库普夫米勒
+William A Martin
+埃德温·T·杰恩斯
+Richard Fikes
+Laurent Younes
+Ilya Sutskever
+F.L. Lewis
+Bing-Huan Mao
+Jacques Salomon Hadamard
+Daniel S. Weld
+Jeff Clune
+Zoubin Ghahrama
+Furao, S.
+Henry Kautz
+阿尼什雅典
+Maja J Mataric
+Ning Qian
+Rudolf E Kalman
+Alex Krizhevsky
+Richard Hook Richens
+Constantin Zopounidis
+Irina Rish
+Raymond Pearl
+Guang-Zhong Yang
+Navdeep Jaitly
+John Hugh Andreae
+理查德·贝尔曼
+Wenjie Li
+Leonard Esau Baum
+Alan Jerome Hoffman
+Yi WU
+Paul J. Werbos
+Arkadi Nemirovski
+Vladimir Batagelj
+Edwin T. Jaynes
+克劳德·香农
+Verhulst, Pierre-Francois
+Tong Che
+Alexander Reinefeld
+Lorien Pratt
+Jacobi, C. G. J
+Lawrence Edward Page
+Jürgen Schmidhuber
+Abdel-rahman Mohamed
+Yonina C. Eldar
+Paul Viola
+Kevin Ashton
+Stan Franklin
+Donald E.Knuth
+王舟
+Steffen Rendle
+leon bottou
+Palmer Luckey
+Carl G.Looney
+Alex Graves
+戈万
+Hermann Weyl (1885-1955)
+费雪
+John Henry Holland
+Alec Radford
+Paul Seymour
+Stephen Wright
+Tom M. Mitchell
+Benjamin Schrauwen
+Jerry Brody
+Ramanathan V. Guha
+Rich Caruana
+David Lowe
+P. Erdős
+William Stanley Jevons
+Chun-Liang Li
+Geoff Webb
+W. T. Tutte
+Song-Chun Zhu
+Oriol Vinyals
+Gordon F. Hughes
+J.-S. Roger Jang
+William S. Lovejoy
+查尔斯萨顿
+Larry Page
+Sepp Hochreiter
+Yoram Singer
+Michael R. Lyu
+David A. Huffman
+Christopher Manning
+Robert F. Simmons
+David Hunter Hubel
+Leo Breiman
+Doina Precup
+Adrian Kaehler
+Murray Campbell
+菲利克斯亚历山大格尔斯
+黄广斌
+Keith Holyoak
+Hassler Whitney
+Stan Z Li
+Shumeet Baluja
+Daphne Koller
+Andrew McCallum
+Raymond J. Mooney
+莱因哈德塞尔滕
+Neri Merhav
+Rodney Allen Brooks
+Kyle Cranmer
+赵军
+Christian Ledig
+David Hillman
+Jeffrey A. Fessler
+Jeff Dean
+Matthew D. Zeiler
+William (Red) L. Whittaker
+Frigyes Riesz
+Mehran Sahami
+John Forbes Nash Jr.
+Guo-Jun Qi
+William Sealy Gosset
+孙怡舟
+Judea Pearl
+Walter L. Ruzzo
+Stuart Russell
+Jun Zhao
+Arthur P. Dempster
+Harald Haas
+Eui-Hong Han
+Chris Harris
+Adrien-Marie Legendre
+Nando de Freitas
+Min Lin
+Allen Newell
+Xuming He
+John von Neumann
+Peter E. Hart
+Martin Abadi
+Khashayar Rohanimanesh
+德约克·阿恩·克利弗特
+Stanley F. Schmidt
+罗布弗格斯
+Hang Li
+Piotr Indyk
+Nathan Intrator
+Jian Pei
+Junichi Yamagishi
+Ronald Aylmer Fisher
+Vitalik Buterin
+弗兰克·罗森布拉特
+Elizabeth Loftus
+Jun Wang
+Tommi S. Jaakkola
+James C. Bezdek
+Kai Ming Ting
+Stuart Geman
+Jiang Wang
+Bart Selman
+Sören Auer
+Lewis Mandell
+Fausto Giunchiglia
+Maureen Caudill
+Susan Dumais
+Y.H.J.M. Arens
+Yann LeCun
+道格拉斯·布鲁斯·莱纳特
+吴恩达
+Dana H. Ballard
+Norbert Fuhr
+中文名
+Paris Smaragdis
+Lukáš Burget
+C. J. “Keith” van Rijsbergen
+Jian Sun
+Dana S. Nau
+Heather Bortfeld
+Qin-Yu Zhu
+Volodymyr Mnih
+Kent Beck
+Max Kanter
+James Allen
+Yair Weiss
+孙剑
+杨强
+Gregorio Ricci Curbastro
+Martin Puterman
+Ruslan L. Stratonovich
+David Marr
+Lei Zhang
+Ian Goodfellow
+Xiaolin Wu
+James Hanley
+Jason D. M. Rennie
+Philipp Koehn
+David Donoho
+冯·诺依曼
+Hastings, WK
+李文捷
+哈里·奈奎斯特
+Noam Chomsky
+Rudolf Halin
+皮尔森
+李俊良
+Simon Haykin
+James Hendler
+Ruslan Salakhutdinov
+Robert E. Tarjan
+Yegnanarayana Bayya
+Mu Li
+Dimitri Bertsekas
+凯文克劳斯顿
+Nicholas Pippenger
+Aviv Tamar
+Rémi Bardenet
+Phillip Isola
+James Newton Morgan
+Luis Gravano
+Sebastian Thrun
+Edward H.Shortliffe
+英文名
+Dan Pelleg
+HongJiang Zhang
+David Haussler
+Thomas Bayes
+Holger Hoos
+Karl Pearson
+Irwin King
+John Tsitsiklis
+Andrew Ng
+Emil Leon Post
+David Cox
+oussama Khatib
+Hyung Jin Chang
+Nick Jennings
+Rob Tibshirani
+John Searle
+Jeff Wu
+Jörg Sander
+Alexey Chervonenkis
+Chris Volinsky
+尼克·詹宁斯
+艾伦图灵
+John S. Breese
+Tom Fawcett
+Richard H. Granger, Jr.
+多里戈
+Drew Bagnell
+Wolfram Burgard
+Claude Lemaréchal
+John D. Lafferty
+Ronald T. Azuma
+史建波
+Pieter Abbeel
+Nahum Shimkin
+Dorothy Denning
+Nal Kalchbrenner
+马文·闵斯基
+Marvin Minsky
+Donald Olding Hebb
+Joseph Konstan
+Tijmen Tieleman
+Stephen Grossberg
+黑斯廷斯
+Andrew G. Barto
+Ali H. Sayed
+Bradley J. Clement
+Jenifer C. Lai
+Joydeep Ghosh
+保罗·韦尔博斯
+李飞飞
+Richard E. Korf
+Ralph Grishman
+Cyril W. Cleverdon
+陈天奇
+Gordon Wyeth
+Eugenio Beltrami(1835-1899)
+马丁普特曼
+Sergey Levine
+Marco Dorigo
+Mohammed J. Zaki
+Moises Goldszmids
+John Canny
+Miomir Vukobratovic
+皮埃尔·弗朗索瓦·韦吕勒
+Philip E. Gill
+Yasuo Matsuyama
+John McCarthy
+Rosalind Wright Picard
+Vannevar Bush
+Christos H PAPADIMITRIOU
+Wendy Hall
+Derya Birant
+Joao Hespanha
+Jia Deng
+Sam Roweis
+Pedro Garcia Lopez
+Lior Rokach
+Michael Saunders
+扬·勒丘恩
+Thomas A. Louis
+Fei-Fei Li
+Joshua B. Tenenbaum
+Reuven Y.Rubinstein
+Athul Paul Jacob
+易子立
+Kalyan Veeramachaneni
+Gary A. Churchill
+Joseph Halpern
+Martin Ester
+Terry Winograd
+Syed Ali Ahmed
+Yanran Li
+Timothy Dozat
+Zellig Harris
+蔡锡钧
+Chihjen Lin
+Hans-Peter Kriegel
+Satoshi Nakamoto
+Nenad Mladenovic
+Glenn W. Brier
+Fernando Pereira
+Durk Kingma
+约翰·T·里德
+Woldemar Voigt
+Aggelos K. Katsaggelos
+Bei Chen
+Ronald.A.Howard
+杨益明
+阿瑟·P·登普斯特
+Yiming Yang
+Jeffrey A. Bilmes
+Larry Roberts
+David J. Kriegman
+Emmanuel J. Candes
+邓力
+Michel Goemans
+Tie-Yan Liu
+John Ross Quinlan
+Shi-Chun Tsai
+Alexander Borgida
+Janet Lynne Kolodner
+Christopher J.C. Burges
+Ronald J. Williams
+Joseph P. Campbell
+Li Deng
+Rakesh Agrawal
+William J. Cook
+Peter Norvig
+Sreerama KV Murthy
+Andrey Karpathy
+格曼兄弟
+Cynthia Breazeal
+Kagan Tumer
+Caiming Xiong
+Patrick Haffner
+Martin Müller
+Llew Mason
+Daniel E. Koditschek
+Foster Provost
+Grace Wahba
+Robert Susmaga
+Gerald Tesauro
+李子青
+Frank Harary
+Anh Nguyen
+Mike Thelwall
+Mark Weiser
+埃德蒙·H·德菲
+Alain Colmerauer
+W. Bruce Croft
+Juergen Schmidhuber
+Alexander Sasha Vezhnevets
+Peter Turney
+Leonard Kaufman
+Jean-Luc Gauvain
+ChengXiang ("Cheng") Zhai
+David McAllester
+Casper Kaae Sønderby
+汤姆·M·米切尔
+R. Darrell Bock
+Xingjian Shi
+Alex Attinger
+Patrick Kenny
+韩家炜
+Warren McCulloch
+Carl Friedrich Gauss
+Kaiming He
+Daniel Dominic Kaplan Sleator
+Stephen A. Cook
+理查德S.萨顿
+Chris Watkins
+约瑟夫·魏泽鲍姆
+Woodrow Wilson (Woody) Bledsoe
+Stan Matwin
+Pablo A. Parrilo
+伊恩·古德费洛
+李锦辉
+约翰·麦卡锡
+Kyunghyun Cho,
+Satoshi Sekine
+R. Fateman
+H Sebastian Seung
+Dieter Fox
+ASHUTOSH SAXENA
+Haizhou Li
+William S. Jewell
+W. Philip Kegelmeyer
+Kurt D. Bollacker
+Andrey Nikolaevich Kolmogorov
+Nicolas Papernot
+翟成祥
+Steven Pinker
+Lawrence K. Saul
+Zhou Wang
+Alain Celisse
+Gary Bradski
+John Riedl
+Michael Rosenblum
+Nancy Flournoy
+Wei-Yin Loh
+梅特罗波利斯
+Solomon Kullback
+Joseph Weizenbaum
+James K. Baker
+Nan McKenzie Laird
+赫伯特·西蒙
+Ruohan Wang
+Marcel Grossmann
+Patrick Mair
+Sharon Goldwater
+Wolfgang Dür
+Kuldip Paliwal
+Paul Dagum
+David E. Rumelhart
+Harry Nyquist
+科琳娜·科特斯
+George Devol
+Florian Schroff
+Jimmy Lin
+杨广中
+William Grey Walter
+Antonio Criminisi
+Hugo Larochelle
+Carl Edward Rasmussen
+Antonio Torralba
+Martin Buehler
+HanWoo Park
+Earl D Sacerdoti
+M. E. J. Newman
+李嫣然
+TEUVO KOHONEN
+Samuel Stanley Wilks
+Donald Allan Darling
+Rolf Sundberg
+Shlomo Zilberstein
+Jon Shlen
+Terrence Sejnowski
+Bernhard Schölkopf
+Herbert A. Simon
+John R Anderson
+Frank Hutter
+Pascal Vincent
+Edward Colin Cherry
+Alexandru Niculescu-Mizil
+Craig A. Knoblock
+Jussi Rintanen
+John Duchi
+Sergey Ioffe
+Nick C Ellis
+Frank Dellaert
+Leonid Levin
+John C. Duchi
+托马斯米科洛夫
+David S. Johnson
+Bekir KARLIK
+Sean R. Eddy
+Raghu Krishnapuram
+Djork-Arné Clevert
+Ben Taskar
+Susan I. Hruska
+理查德·科夫
+Alan Turing
+Nikolai Smirnov
+乔治·卡里皮斯
+Hugh Durrant-Whyte
+Petr Hájek
+Andrey Nikolayevich Tikhonov
+Frank Rosenblatt
+Yujia Li
+Thomas G. Dietterich
+Donald Geman
+Geoff McLachlan
+Charles Edward Spearman
+Marco Baioletti
+Anita Jones
+朱松纯
+李宇佳
+Jae S. Lim
+Karl Iagnemma
+Anish Athalye
+Philip S. Yu
+迪米特里·伯特瑟卡斯
+David Silver
+Hector Munoz-Avila
+施行健
+Philip Loizou
+Jon Kleinberg
+譚祟仁
+Peter W. Jusczyk
+David Rumelhart
+Sylvain Arlot
+Ron Kohavi
+Jiawei Han
+亨利·蓝道
+Jason Yosinski
+Edmund Beecher Wilson
+Andrew Zisserman
+张磊
+戴维·科克斯
+Frederick Mosteller
+Yoav Freund
+Leslie Gabriel Valiant
+Margaret Masterman
+Jean Pouget-Abadie
+Galileo Galilei
+Ahti Heinla
+Steven Abney
+Donald Bruce Rubin
+Simon Osindero
+Michael Jones
+Ronan Collobert
+Steven DeRose
+Graesser
+Dawn Song
+Joel Benjamin
+Carolina Cruz-Neira
+Christine Virginia Zavgren
+Victor R. Lesser
+Nir Friedman
+斯图尔特·J·拉塞尔
+Keith S. Decker
+Vladimir Vapnik
+Edmund H. Durfee
+Cecilia R. Aragon
+Demis Hassabis
+Claude Shannon
+Christian P. Robert
+Badrul Sarwar
+Raimund Seidel
+何旭铭
+林钦佑
+Monty Newborn
+Nicolas Minorsky
+Pierre-Simon Laplace
+Eli Zelkha
+邓嘉
+Ronald Parr
+D.W.F. van Krevelen
+Geoffrey E. Hinton
+Paul Werbos
+W·布鲁斯·克罗夫特
+Majid Rabbani
+马修泽勒
+Kurt Konolige
+Daniela Rus
